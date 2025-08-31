@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harshit Jain</h1>
+<h1 align="center">Hi,I'm Harshit Jain</h1>
 <h3 align="center">A passionate fullStack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=itzharshit99&label=Profile%20views&color=0e75b6&style=flat" alt="itzharshit99" /> </p>
